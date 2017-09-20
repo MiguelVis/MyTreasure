@@ -4,7 +4,7 @@
 
 **MyTreasure** is a library manager for people who love books and want them organized.
 
-![Image of MyTreasure](https://github.com/MiguelVis/MyTreasure/tree/master/screenshots/scr0.png)
+![Image of MyTreasure](screenshots/scr0.png)
 
 ## Why another library manager?
 
@@ -107,7 +107,7 @@ See the file LICENSE.md for more details.
 
 ## More screenshots
 
-![Image of MyTreasure](https://github.com/MiguelVis/MyTreasure/tree/master/screenshots/scr1.png)
-![Image of MyTreasure](https://github.com/MiguelVis/MyTreasure/tree/master/screenshots/scr2.png)
-![Image of MyTreasure](https://github.com/MiguelVis/MyTreasure/tree/master/screenshots/scr3.png)
-![Image of MyTreasure](https://github.com/MiguelVis/MyTreasure/tree/master/screenshots/scr4.png)
+![Image of MyTreasure](screenshots/scr1.png)
+![Image of MyTreasure](screenshots/scr2.png)
+![Image of MyTreasure](screenshots/scr3.png)
+![Image of MyTreasure](screenshots/scr4.png)
