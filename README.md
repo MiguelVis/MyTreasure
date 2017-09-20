@@ -59,7 +59,6 @@ mysql -u root -p < my_treasure.sql
 ```php
 $CF['app_language']  = 'es';
 ```
-
   - My database configuration looks like this:
 ```php
 $CF['db_server']     = 'localhost';
