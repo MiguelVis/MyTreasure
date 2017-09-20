@@ -55,11 +55,11 @@ mysql -u root -p < my_treasure.sql
 - Download MyTreasure and place it in a directory inside the XAMPP htdocs directory (or equivalent for your web server). In my personal computer that directory is: `C:\xampp\htdocs\mytreasure\`.
 - Configure the file `conf.php` located in `mytreasure\app\libs` to meet your language and database requirements. Leave the rest of the file as is.
 
-  - Currently, you can set `es` for Español (Spanish) or `en` for English.
+Currently, you can set `es` for Español (Spanish) or `en` for English.
 ```php
 $CF['app_language']  = 'es';
 ```
-  - My database configuration looks like this:
+My database configuration looks like this:
 ```php
 $CF['db_server']     = 'localhost';
 $CF['db_name']       = 'my_treasure';
